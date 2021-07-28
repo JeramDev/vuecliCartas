@@ -1,5 +1,7 @@
 # vueclipruebas
 
+## Ejercicio curso Programación Fullstack por la EOI
+
 ## Project setup
 ```
 npm install
